@@ -1,0 +1,2 @@
+# spdx
+Satish Perikala Dev
